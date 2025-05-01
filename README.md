@@ -1,4 +1,4 @@
-# valgrind on macOS (EN)
+# full stack container for 42 (EN)
 
 ## Description
 This container provides a development environment specifically for 42 students.
@@ -62,7 +62,7 @@ header hoge.c
 header *.c
 ```
 
-# valgrind on macOS (JA)
+# full stack container for 42 (JA)
 ## Description
 このコンテナは42生用の開発ツールをまとめたコンテナです。
 この環境では、以下の **42 専用ツール** をApple Silicon macOSで利用できます。
